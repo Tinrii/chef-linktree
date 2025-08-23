@@ -16,8 +16,8 @@ const RootLayout = ({ children }) => {
                 <link rel="manifest" href="/images/favicon/site.webmanifest"/>
 
                 <meta name="twitter:card" content="summary_large_image"/>
-                <meta name="twitter:title" content="project name"/>
-                <meta name="twitter:description" content="description"/>
+                <meta name="twitter:title" content="Chef - Leblack"/>
+                <meta name="twitter:description" content="Chef - LeBlack's personal linktree"/>
                 <meta name="twitter:image" content="/images/favicon/favicon-32x32.png"/>
                 <meta name="twitter:creator" content="@tin_rii"/>
 
