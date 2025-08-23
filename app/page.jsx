@@ -2,19 +2,19 @@ import React from 'react';
 import StreamStatus from '@components/status';
 
 export const metadata = {
-    site_name: 'Project name',
-    title: 'Project name | Home',
-    description: "Project description",
+    site_name: 'Chef - LeBlack',
+    title: 'Chef - LeBlack',
+    description: "Chef - LeBlack's personal linktree",
     type: 'website',
     openGraph: {
-        site_name: 'Project name',
-        title: 'Project name | Home',
-        description: "project description",
+        site_name: 'Chef - LeBlack',
+        title: 'Chef - LeBlack',
+        description: "Chef - LeBlack's personal linktree",
         type: 'website',
-        url: 'project url',
-        locale: 'rs_RS',
+        url: 'https://chef-linktree.vercel.app/',
+        locale: 'en_US',
         image: '/images/favicon/favicon-32x32.png',
-        image_Alt: 'Project name',
+        image_Alt: 'Chef - LeBlack',
         image_Width: 1200,
         image_Height: 1200,
     },
