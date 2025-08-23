@@ -70,7 +70,7 @@ const Home = () => {
         <div className='min-h-screen bg-[#0a0a0a] text-[#ededed] flex items-start justify-center p-4 pt-20'>
             <div className='w-full max-w-md mx-auto'>
                 <div className='text-center mb-8'>
-                    <button className='relative w-24 h-24 mx-auto mb-4 group cursor-pointer'>
+                    <button className='relative w-24 h-24 mx-auto mb-4 group cursor-pointer' onClick={() => window.location.href = 'https://twitch.tv/leblackkkk'}>
                         <div className='absolute -inset-1 bg-gradient-to-r from-sky-400 to-cyan-300 rounded-full animate-pulse opacity-50'></div>
                         <div className='absolute -inset-1 bg-gradient-to-r from-sky-400 to-cyan-300 rounded-full animate-ping opacity-20'></div>
                         <div className='relative w-24 h-24 mx-auto bg-gradient-to-br from-sky-500 to-cyan-500 rounded-full'>
