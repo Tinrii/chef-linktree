@@ -23,8 +23,8 @@ export const metadata = {
 const links = [
     {
         name: 'Twitch Live',
-        url: 'https://localhost',
-        description: 'Watch me play TFT',
+        url: 'https://twitch.tv/leblackkkk',
+        description: 'Watch me stream live on Twitch',
         colors: 'bg-[#6441a5] hover:bg-[#7b59c2] border-2 border-[#7b59c2]',
         icon: 'fa-brands fa-twitch',
     },
@@ -42,13 +42,13 @@ const links = [
         colors: 'bg-gradient-to-r from-[#ff0050] to-[#00f2ea] hover:from-[#e6004a] hover:to-[#00ddd4] text-white',
         icon: 'fa-brands fa-instagram',
     },
-    {
-        name: 'Twitter',
+    /*{
+        name: 'Twitter / X',
         url: 'https://twitter.com/',
-        description: 'Follow me on Twitter',
+        description: 'Follow me on Twitter / X',
         colors: 'bg-[#1DA1F2] hover:bg-[#0d8ddb] text-white',
         icon: 'fa-brands fa-twitter',
-    },
+    },*/
     {
         name: 'Donations',
         url: 'https://streamlabs.com/leblackkkk/tip',
